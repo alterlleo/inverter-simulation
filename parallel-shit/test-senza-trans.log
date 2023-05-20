@@ -1,24 +1,22 @@
 Circuit: * C:\users\leonardo\Desktop\FSAE\inverter-simulation\parallel-shit\test-senza-trans.asc
 
-WARNING: Node N006 is floating.
-
-WARNING: Less than two connections to node N006.  This node is used by C3.
 Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 3.51173e-007 to 3.51173e-007
 
-Date: Sun May 14 17:55:26 2023
-Total elapsed time: 0.114 seconds.
+Date: Sat May 20 10:36:28 2023
+Total elapsed time: 49.880 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 139
-traniter = 136
-tranpoints = 64
-accept = 57
-rejected = 7
+totiter = 16774643
+traniter = 16774640
+tranpoints = 7792844
+accept = 4701930
+rejected = 3090915
 matrix size = 15
 fillins = 15
 solver = Normal
-Matrix Compiler1:      73 opcodes  0.5/[0.4]/0.6
-Matrix Compiler2: 1.31 KB object code size  0.3/0.4/[0.2]
+Matrix Compiler1:      73 opcodes  0.6/0.3/[0.2]
+Matrix Compiler2: 1.31 KB object code size  0.2/0.4/[0.2]
 
