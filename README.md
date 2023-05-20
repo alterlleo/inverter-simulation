@@ -6,6 +6,9 @@ After the simulation with all the capacities and inductors, it will show if the 
 ## Inverter problem
 The inverter has the problem that it requires a large amount of current (and this is ok), but it power off after a little time.
 TODO: check the thermal isolation, there is the probability that the inverter sensor power off the system if the temperature grow up too much.
+Unitek said that the problem may be related to dc-link capacitors: a fast amount of current requested may create an oscillation of the electrons between
+the two capacitors.
+We try to add an extra capacitor in parallel with one of the 2 dc-link-capacitors, in order to misbalance them.
 
 ## Simulation
 The schematic is the DC-link schematic, with and approsimation of all the capacities and inductors.
