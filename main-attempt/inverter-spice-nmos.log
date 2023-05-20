@@ -4,24 +4,30 @@ WARNING: Node N014 is floating.
 
 Instance "m1": Length shorter than recommended for a level 1 MOSFET.
 Direct Newton iteration for .op point succeeded.
-Heightened Def Con from 1.0618e-007 to 1.1118e-007
-Heightened Def Con from 1.64777e-007 to 1.05378e-006
-Heightened Def Con from 1.14262e-006 to 1.15062e-006
+Heightened Def Con from 3.76297e-008 to 4.36297e-008
+Heightened Def Con from 9.61483e-008 to 1.02148e-007
+Heightened Def Con from 1.83947e-007 to 3.24947e-007
+Heightened Def Con from 3.4633e-007 to 3.5233e-007
+Heightened Def Con from 4.22147e-007 to 5.33147e-007
+Heightened Def Con from 5.54332e-007 to 5.61332e-007
+Heightened Def Con from 5.63837e-007 to 5.80837e-007
+Heightened Def Con from 6.15097e-007 to 6.28097e-007
+Heightened Def Con from 6.40675e-007 to 6.59675e-007
 
-Date: Sat May 20 11:00:57 2023
-Total elapsed time: 50.199 seconds.
+Date: Sat May 20 14:49:15 2023
+Total elapsed time: 58.429 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 14531020
-traniter = 14530995
-tranpoints = 6065819
-accept = 3844024
-rejected = 2221798
+totiter = 16175743
+traniter = 16175718
+tranpoints = 7257657
+accept = 4525066
+rejected = 2732600
 matrix size = 20
 fillins = 17
 solver = Normal
-Matrix Compiler1: 1.64 KB object code size  0.7/0.5/[0.3]
-Matrix Compiler2: 1.71 KB object code size  0.4/0.6/[0.3]
+Matrix Compiler1: 1.64 KB object code size  0.6/0.3/[0.3]
+Matrix Compiler2: off  [0.3]/0.3/0.3
 

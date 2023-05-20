@@ -10,5 +10,8 @@ Unitek said that the problem may be related to dc-link capacitors: a fast amount
 the two capacitors.
 We try to add an extra capacitor in parallel with one of the 2 dc-link-capacitors, in order to misbalance them.
 
+## TODO understand
+Adding the extra capacitor (40uF) implies that the current is shifted up by some amperes, why? There is this changing of the voltage at the terminals of the igbt, but the current that flows in the resistors specified by Unitek is slowed down than without extra capacitor.
+
 ## Simulation
 The schematic is the DC-link schematic, with and approsimation of all the capacities and inductors.
