@@ -1,33 +1,24 @@
 Circuit: * C:\users\leonardo\Desktop\FSAE\inverter-simulation\main-attempt\inverter-spice-nmos.asc
 
-WARNING: Node N014 is floating.
+WARNING: Node N012 is floating.
 
 Instance "m1": Length shorter than recommended for a level 1 MOSFET.
 Direct Newton iteration for .op point succeeded.
-Heightened Def Con from 3.76297e-008 to 4.36297e-008
-Heightened Def Con from 9.61483e-008 to 1.02148e-007
-Heightened Def Con from 1.83947e-007 to 3.24947e-007
-Heightened Def Con from 3.4633e-007 to 3.5233e-007
-Heightened Def Con from 4.22147e-007 to 5.33147e-007
-Heightened Def Con from 5.54332e-007 to 5.61332e-007
-Heightened Def Con from 5.63837e-007 to 5.80837e-007
-Heightened Def Con from 6.15097e-007 to 6.28097e-007
-Heightened Def Con from 6.40675e-007 to 6.59675e-007
 
-Date: Sat May 20 14:49:15 2023
-Total elapsed time: 58.429 seconds.
+Date: Mon May 22 13:35:32 2023
+Total elapsed time: 0.081 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 16175743
-traniter = 16175718
-tranpoints = 7257657
-accept = 4525066
-rejected = 2732600
-matrix size = 20
-fillins = 17
+totiter = 2778
+traniter = 2753
+tranpoints = 1329
+accept = 909
+rejected = 420
+matrix size = 16
+fillins = 1
 solver = Normal
-Matrix Compiler1: 1.64 KB object code size  0.6/0.3/[0.3]
-Matrix Compiler2: off  [0.3]/0.3/0.3
+Matrix Compiler1: 780 bytes object code size  0.5/0.3/[0.3]
+Matrix Compiler2: off  [0.2]/0.3/0.3
 
