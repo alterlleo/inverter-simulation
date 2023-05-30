@@ -15,3 +15,6 @@ Adding the extra capacitor (40uF) implies that the current is shifted up by some
 
 ## Simulation
 The schematic is the DC-link schematic, with and approsimation of all the capacities and inductors.
+
+## Wrong schematic?
+Adding a GND connection to between the second capacitor and the inductor means better simulations: finally R1 and R2 give out sinusoidal curves, but the peak-to-peak current is wrong: moduling the V2 input help it.
