@@ -3,5 +3,5 @@ Circuit: * C:\users\leonardo\Desktop\FSAE\inverter-simulation\main-attempt\inver
 Limiting rise time of source v2 to 6.25e-006
 Limiting fall time of source v2 to 6.25e-006
 Per .tran options, skipping operating point for transient analysis.
-Heightened Def Con from 7.50923e-005 ++++++++++++++++++++++++++++++++++++++++++++++++++Fatal Error: Analysis:  Time step too small; time = 7.50923e-005, timestep = 1.25e-019: trouble with z1:1:msub-instance m:z1:1:1
+Heightened Def Con from 7.50062e-005 ++++++++++++++++++++++++++++++++++++++++++++++++++Fatal Error: Analysis:  Time step too small; time = 7.50062e-005, timestep = 1.25e-019: trouble with z1:1:msub-instance m:z1:1:1
 
